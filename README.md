@@ -1,7 +1,7 @@
 # Easy Desktop Changer
 
 An [AutoHotKey](https://www.autohotkey.com) script which allows you
-to change desktops with mouse; to do so, open desktop_next/previous.exe files.
+to change desktops with mouse; to do so, open desktop_next/previous.exe files; they can be downloaded from [here](https://github.com/mkay1375/EasyDesktopChanger/releases).
 
 You can add them to your taskbar and have something like this:
 
