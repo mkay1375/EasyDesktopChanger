@@ -5,11 +5,7 @@ to change desktops with mouse; to do so, open desktop_next/previous.exe files.
 
 You can add them to your taskbar and have something like this:
 
-<div style="text-align: center;">
-
 ![Easy Desktop Change Demo Image](https://raw.githubusercontent.com/mkay1375/EasyDesktopChanger/master/demo.jpg)
-
-</div>
 
 ## Credits
 
